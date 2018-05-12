@@ -19,7 +19,7 @@
         <author href="#" email="edi-3@hotmail.com">
             Eduardo Haro
         </author>
-        <icon src="icon.jpg">
-            <splash src="splash screen.jpg"
+        <icon src="img/icon.jpg" />
+            <splash src="img/splash.jpg" />
        
     </widget>
