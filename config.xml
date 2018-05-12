@@ -16,10 +16,9 @@
             Aplicación de prueba.
         </description>
 
-        <author href="#" email="ismaharo18@gmail.com">
-            Ismael Haro
+        <author href="#" email="edi-3@hotmail.com">
+            Eduardo Haro
         </author>
 
-        <icon src="img/icono.jpg" />
-        <splash src="img/splash.png" />
+       
     </widget>
